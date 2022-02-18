@@ -1,7 +1,7 @@
 <h1 align="center">DESAFIO CAPGEMINI</h1>
 
 <h1>Descrição do projeto</h1>
-Desafio contendo 3 questões que avaliam sua lógica de programação
+Desafio, contendo 3 questões, que avalia seu raciocínio e sua lógica de programação
 
 <h1>Tecnologias utilizadas</h1>
 
