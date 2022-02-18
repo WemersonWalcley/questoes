@@ -3,8 +3,8 @@
 ## Descrição do Projeto
 <p align="center">Desafio de programação</p>
 
-## Linguagem de desenvolvimento utilizada foi o Java na versão JDK 11
-## A IDE de desenvolvimento utilizada foi o IntelliJ
+### Linguagem de desenvolvimento utilizada foi o Java na versão JDK 11
+### A IDE de desenvolvimento utilizada foi o IntelliJ
 
 
 
